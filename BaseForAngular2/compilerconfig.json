@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "Less/StyleSheet1.css",
+    "inputFile": "Less/StyleSheet1.less"
+  },
+  {
+    "outputFile": "Less/Navibar.css",
+    "inputFile": "Less/Navibar.less"
+  }
+]
