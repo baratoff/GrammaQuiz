@@ -14,7 +14,7 @@ import { AppComponent }  from './app.component';
         NavibarComponent
     ],
     bootstrap: [
-        AppComponent
+        AppComponent 
     ]
 })
 export class AppModule { }
